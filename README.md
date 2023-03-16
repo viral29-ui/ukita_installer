@@ -1,4 +1,4 @@
-Use The fllowing commands to build the installer
+Use The following commands to build the installer
 
 sudo apt-get install -y nsis unzip
 
